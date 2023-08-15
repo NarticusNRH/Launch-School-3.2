@@ -1,0 +1,20 @@
+
+
+en:
+  welcome: 'Hello! Welcome to Calculator! Enter your name: '
+  valid_name: 'Make sure to use a valid name.'
+  first_number: 'Please type in the first number:'
+  invalid_number: "Hmm... that doesn't look like a valid number. Try again."
+  second_number: 'Please type in the second number:'
+  operation: "What operation would you like to perform?"
+  invalid_op: "Hmm... that doesn't look like a valid operation. Try again."
+  continue: 'Would you like to perform another operation? (y/n)'
+es:
+  welcome: 'SPANISH Hello! Welcome to Calculator! Enter your name: '
+  valid_name: 'SPANISH Make sure to use a valid name.'
+  first_number: 'SPANISH Please type in the first number:'
+  invalid_number: "SPANISH Hmm... that doesn't look like a valid number. Try again."
+  second_number: 'SPANISH Please type in the second number:'
+  operation: "SPANISH What operation would you like to perform?"
+  invalid_op: "SPANISH Hmm... that doesn't look like a valid operation. Try again."
+  continue: 'SPANISH Would you like to perform another operation? (y/n)'
