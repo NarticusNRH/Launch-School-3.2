@@ -1,9 +1,4 @@
-arr1 = [1, 2, 3, 4, 5]
-arr2 = [6, 7]
+str = "10.4.5"
 
-arr3 = arr1 + arr2
-
-p arr3
-
-arr4 = arr1 + [6, 7]
-p arr4
+p str
+p str.split(".")
